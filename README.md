@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kazi Mahbubur Rahman</h1>
-<h3 align="center">Competitive Programmer | Desktop Developer | Backend Developer</h3>
+<h3 align="center">¯\_(ツ)_/¯
+
+Programmer | Content Creator | Learner
+
+?></h3>
 
 - 🔭 I’m currently working on **Android Development**
 
