@@ -24,7 +24,7 @@ Programmer | Content Creator | Learner
 [<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nahidhassanbulbul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -61,5 +61,5 @@ Programmer | Content Creator | Learner
 [facebook]: https://facebook.com/MahbubDev
 [twitter]: https://twitter.com/mahbubdev
 [youtube]: https://www.youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev
+[instagram]: https://www.instagram.com/mahbubdev/
 [linkedin]: https://www.linkedin.com/in/mahbubdev
