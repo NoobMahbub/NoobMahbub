@@ -55,7 +55,7 @@ Programmer | Content Creator | Learner
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="Kazi Mahbubur Rahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
