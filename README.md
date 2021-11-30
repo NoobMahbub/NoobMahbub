@@ -15,7 +15,7 @@ Programmer | Content Creator | Learner
 
 - 📫 How to reach me **MahbubBengali@gmail.com**
 
-- ⚡ Fun fact **I can provide you free cookies to eat 🍪😂**
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
 
