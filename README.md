@@ -62,7 +62,7 @@ Programmer | Content Creator | Learner
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
 [twitter]: https://twitter.com/mahbubdev
-[youtube]: https://www.youtube.com/TechHelpBangladesh
-[instagram]: https://www.instagram.com/mahbubdev/
-[linkedin]: https://www.linkedin.com/in/mahbubdev
-[telegram]: https://www.t.me/TechHelpBangladesh
+[youtube]: https://youtube.com/TechHelpBangladesh
+[instagram]: https://instagram.com/mahbubdev/
+[linkedin]: https://linkedin.com/in/mahbubdev
+[telegram]: https://t.me/TechHelpBangladesh
