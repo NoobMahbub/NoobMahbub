@@ -4,7 +4,7 @@
 Programmer | Content Creator | Learner
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt="amaravindmenon"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Java**
