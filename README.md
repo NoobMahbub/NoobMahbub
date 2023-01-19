@@ -63,6 +63,7 @@ Programmer | Content Creator | Learner
 # 🏅 Certificates:
 <p>
 <img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/GitandGithub.jpg" alt="Kazi Mahbubur Rahman" />
+<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/Touch-Typing.jpg" alt="Kazi Mahbubur Rahman" />
 </p>
 
 [website]: https://TechHelpBD.com
