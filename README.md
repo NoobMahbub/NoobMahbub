@@ -60,7 +60,7 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-# 🏅 Certificates :
+# 🏅 Certificates:
 <p>
 <img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/GitandGithub.jpg" alt="Kazi Mahbubur Rahman" />
 </p>
