@@ -62,7 +62,7 @@ Programmer | Content Creator | Learner
 
 # 🏅 Certificates:
 <p>
-Udemy Url: https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03/
+Udemy Url: <a href="https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03" target="_blank">https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03</a>
 <img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/GitandGithub.jpg" alt="Kazi Mahbubur Rahman" />
 <img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/Touch-Typing.jpg" alt="Kazi Mahbubur Rahman" />
 </p>
