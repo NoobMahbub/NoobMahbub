@@ -58,14 +58,6 @@ Programmer | Content Creator | Learner
 <h3>GitHub Stars</h3>
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="GitHub Stars" /></p>
 
-# 🏅 Certificates:
-<p>
-
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/GitandGithub.jpg" alt="Kazi Mahbubur Rahman" />
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/Touch-Typing.jpg" alt="Kazi Mahbubur Rahman" />
-</p>
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/UC-9b193f1c-5e19-48be-84ab-84f8bf2cc4c6.jpg" alt="Kazi Mahbubur Rahman" />
-</p>
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
