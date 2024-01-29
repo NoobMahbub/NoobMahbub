@@ -95,7 +95,8 @@
          <img alt="youtube subscribers" title="Subscribe for more" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCpnZ8p8i65RDy1zhXajulYw?color=%23E05D44&label=Subscribe%20for%20more&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
          
 </div>
-[YOURNAME](https://www.youtube.com/c/TechHelpBangladesh?sub_confirmation=1)
+`[Replace_With_Your_Name](https://www.youtube.com/c/TechHelpBangladesh?sub_confirmation=1)`
+
 <br/>
 <div>
   
