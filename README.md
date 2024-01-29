@@ -57,10 +57,10 @@
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
 
 </details>
-
-<h3>GitHub Stars</h3>
+<details>
+<summary><h3>GitHub Stars</h3></summary>
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="GitHub Stars" /></p>
-
+</details>
 
 
 <h3>⚡ Recent GitHub Activity</h3>
