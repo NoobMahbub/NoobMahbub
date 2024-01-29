@@ -1,9 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center"><img src="https://camo.githubusercontent.com/1a83cba17b52c6d23ccff671877844e2ef64a7ae749e52bb8eddc63c5ec378c4/68747470733a2f2f736c61636b6d6f6a69732e636f6d2f656d6f6a69732f35303137312d30312d64616e63696e672d6361742f646f776e6c6f6164" width="30"/></h3>
+<h2 align=center>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=000000&center=true&width=435&lines=I+am+Kazi+Mahbubur+Rahman;A+Fullstack+Developer;A+Content+Creator;" alt="Typing SVG" /></a>
+</h2>
 
-Programmer | Content Creator | Learner
-
-?></h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
 - 🔭 I’m currently working on **Web Development**
