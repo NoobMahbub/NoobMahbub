@@ -54,7 +54,7 @@
 <details>
 <summary>Top Languages</summary>
 
-<p><img width="494" height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaziMahbuburRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
+<p><img width="494" height="275" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaziMahbuburRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
 
 </details>
 <details>
