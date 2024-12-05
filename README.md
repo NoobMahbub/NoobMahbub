@@ -61,7 +61,7 @@
 <summary>GitHub Stars</summary>
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziMahbuburRahman&show_icons=true&locale=en" alt="GitHub Stars" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaziMahbuburRahman" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaziMahbuburRahman)](https://git.io/streak-stats)
 
 </details>
 
